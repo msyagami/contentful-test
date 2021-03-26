@@ -7,7 +7,7 @@ export default ({ location }) => (
       <title>404 - Oh noesss!</title>
     </Helmet>
     <h3>
-      There's nothing at <code>{location.state.from.pathname}</code>
+      There's nothing here!
     </h3>
   </div>
 );
