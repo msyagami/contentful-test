@@ -67,3 +67,11 @@
 .o-gradient-javascript {
   background: linear-gradient(to right, #fad088 0%, #f48782 100%);
 }
+
+.o-gradient-react {
+  background: linear-gradient(to right, #61dbfb 0%, #3b2dff 100%);
+}
+
+.o-gradient-vue {
+  background: linear-gradient(to right, #3fb27f 0%, #32475b 100%);
+}
